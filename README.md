@@ -1,6 +1,3 @@
--- Lucas Henrique de Souza Santos - RM: 558241
--- Lucas Martins Soliman RM-558506
--- Ryan Fernando Lucio da Silva RM-555924
 
 Projeto Challenge Front
 
@@ -81,6 +78,3 @@ Java com Spring Boot para o back-end.
 Oracle Database para persistência dos dados.
 Vercel para deploy do front-end.
 
-Lucas Henrique de Souza Santos - RM: 558241
-Lucas Martins Soliman RM-558506
-Ryan Fernando Lucio da Silva RM-555924
